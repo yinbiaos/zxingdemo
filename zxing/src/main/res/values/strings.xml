@@ -1,0 +1,13 @@
+<resources>
+    <string name="zxing_app_name">zxing</string>
+    <string name="zxing_sweep">扫一扫</string>
+    <string name="zxing_flashlight_on">开启闪光灯</string>
+    <string name="zxing_flashlight_off">关闭闪光灯</string>
+    <string name="zxing_bottom_hint">将取景框对准条形码位置,</string>
+    <string name="zxing_bottom_hint2">即可自动扫描。</string>
+    <string name="zxing_cancel_str">取消</string>
+    <string name="zxing_sure_str">确定</string>
+    <string name="zxing_msg_camera_framework_bug">您没有相机权限，请到系统设置里授权。</string>
+    <string name="zxing_alert_title">提示</string>
+    <string name="zxing_alert_message">扫一扫功能需要开启相机权限，是否去设置？</string>
+</resources>
